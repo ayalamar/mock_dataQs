@@ -11,6 +11,7 @@ text_counter <- function(filename){
 
   seps <- NA
   for (line_no in 1:length(temp_file$V1)){
+  
     sep_line <- strsplit(temp_file$V1[line_no], "")
     if (is.na(seps)){
       seps <- sep_line
@@ -55,6 +56,7 @@ counter_other = total_chars - counter_letters - counter_numbers - counter_space
 
 out_list <- list("labels" = c("alphabetical", "numerical", "spaces", "other"), 
                  "output" = c(counter_letters, counter_numbers, counter_space, counter_other))
+
 return(out_list)
 
 }
