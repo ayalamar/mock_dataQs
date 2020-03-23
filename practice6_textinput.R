@@ -1,4 +1,4 @@
-# Write a function that can take in a text file 
+# Function that can take in a text file 
 #and return the number of characters in the file categorized by:
 ## alphabetic, numeric, other non space characters
 
@@ -24,9 +24,21 @@ text_counter <- function(filename){
   counter_numbers = 0
   counter_space = 0
   counter_others = 0
+  counter_escapes = 0
+  
+  # find and count any escape characters in R so it can be excluded in the totals later
+  esc_chrs <- c(intToUtf8(92), "\n", "\t")
+  if(sum(unlist(seps) %in% esc_chrs) > 0){
+    for(esc_chr in esc_chrs){
+      if(esc_chr == esc_chrs[1]){
+        counter_others = counter_others + (sum(unlist(seps) %in% esc_chr))*2
+      } else {
+        counter_escapes = counter_escapes + sum(unlist(seps) %in% esc_chr)
+      }
+    }
+  }
   
   for (line_no in 1:length(seps)){
-    
     # count the alphabetical characters
     for (i in 97:122){
       counter_letters_n = length(grep(intToUtf8(i), seps[[line_no]], ignore.case = TRUE))
@@ -55,7 +67,7 @@ counter_other = total_chars - counter_letters - counter_numbers - counter_space
 # sprintf("there are %d other characters", counter_other)
 
 out_list <- list("labels" = c("alphabetical", "numerical", "spaces", "other"), 
-                 "output" = c(counter_letters, counter_numbers, counter_space, counter_other))
+                 "output" = c(counter_letters, counter_numbers, counter_space, counter_other - counter_escapes))
 
 return(out_list)
 
