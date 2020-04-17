@@ -1,0 +1,133 @@
+"ID","admission_date","admission_time","discharge_date","discharge_time","hospital_ID","gender","age","disease_status","length_of_stay","numna"
+1008,2004-09-02,"07:49",2005-02-01,"10:07","St. Michael's Hospital","M",58,0,152,0
+1092,2005-03-09,"09:51",2005-03-13,"16:22","St. Michael's Hospital","F",NA,0,4,1
+1678,2005-08-28,"06:05",2005-12-01,"08:24","St. Michael's Hospital","M",69,1,95,0
+1912,2005-09-16,"21:58",2005-10-10,"15:25","St. Michael's Hospital","F",NA,1,24,0
+1982,2005-05-19,"01:16",2005-08-14,"20:40","St. Michael's Hospital","M",40,1,87,0
+2125,2005-05-03,"10:25",2005-08-08,"10:10","St. Joseph's Health Centre","M",NA,1,97,0
+2188,2005-07-07,"19:20",2005-12-03,"17:57","St. Michael's Hospital","F",56,1,149,0
+2212,2004-09-09,"18:15",2005-03-01,"17:11","St. Joseph's Health Centre","F",NA,0,173,0
+2276,2005-03-20,"17:26",2005-04-30,"08:39","St. Michael's Hospital","F",NA,0,41,0
+2772,2004-09-24,"01:10",2005-04-04,"06:51","St. Michael's Hospital","F",69,0,192,0
+2895,2005-03-30,"19:41",2005-04-23,"07:50","St. Michael's Hospital","M",69,1,24,0
+3903,2004-09-23,"07:45",2005-04-01,"09:00","St. Michael's Hospital","F",76,1,190,0
+3961,2005-03-16,"03:08",2005-09-15,"06:27","St. Michael's Hospital",NA,43,1,183,0
+4108,2005-01-17,"10:58",2005-05-11,"12:14","St. Michael's Hospital","M",39,0,114,0
+4244,2004-11-15,"23:49",2005-01-18,"11:43","St. Michael's Hospital","F",63,0,64,0
+4253,2005-01-25,"20:04",2005-03-06,"22:02","St. Michael's Hospital",NA,43,0,40,0
+4347,2005-05-21,"07:12",2005-08-21,"03:51","St. Michael's Hospital",NA,NA,0,92,0
+4556,2005-06-12,"22:31",2005-09-16,"01:34","St. Michael's Hospital","F",53,1,96,0
+4972,2004-11-04,"17:12",2005-05-20,"14:56","St. Joseph's Health Centre","M",63,0,197,0
+5038,2005-09-12,"13:09",2005-10-29,"14:01","St. Joseph's Health Centre","F",65,1,47,0
+5163,2004-12-17,"06:13",2005-06-01,"20:16","St. Michael's Hospital","F",47,0,166,0
+5364,2005-06-01,"21:43",2005-06-02,"11:14","St. Michael's Hospital","F",NA,0,1,0
+5474,2005-01-18,"22:40",2005-03-14,"02:42","St. Michael's Hospital",NA,72,0,55,0
+5670,2004-09-14,"02:40",2005-01-08,"14:12","St. Michael's Hospital","F",77,0,116,0
+5826,2004-12-20,"13:40",2005-07-05,"20:06","St. Michael's Hospital","F",48,0,197,0
+5901,2005-02-23,"20:38",2005-03-22,"16:44","St. Michael's Hospital","F",79,0,27,0
+5938,2005-06-02,"13:50",2005-11-30,"17:06","St. Michael's Hospital","M",43,1,181,0
+6011,2005-07-01,"04:44",2005-10-31,"23:23","St. Michael's Hospital","M",80,0,122,0
+6180,2005-07-24,"01:25",2005-11-23,"12:02","St. Michael's Hospital","M",47,0,122,0
+6678,2005-05-04,"18:58",2005-06-27,"05:30","St. Michael's Hospital","F",NA,0,54,0
+6692,2004-12-11,"03:26",2005-04-25,"23:27","St. Joseph's Health Centre","M",NA,1,135,0
+7089,2005-01-27,"23:14",2005-07-12,"17:49","St. Joseph's Health Centre","M",NA,0,166,0
+7269,2005-07-13,"01:34",2005-12-25,"07:22","St. Michael's Hospital","M",45,0,165,0
+7334,2004-08-20,"11:55",2005-02-14,"14:29","St. Joseph's Health Centre","M",NA,0,178,0
+7614,2005-02-14,"20:03",2005-05-23,"14:58","St. Michael's Hospital","M",51,0,98,0
+7714,2005-06-28,"10:41",2005-09-23,"20:06","St. Michael's Hospital","F",49,0,87,0
+7961,2005-02-25,"13:13",2005-07-24,"22:48","St. Joseph's Health Centre","F",47,1,149,0
+8156,2005-03-26,"13:58",2005-08-30,"17:45","St. Michael's Hospital","F",76,0,157,0
+8367,2005-02-16,"08:08",2005-05-20,"07:01","St. Michael's Hospital","M",NA,0,93,0
+8654,2005-02-12,"04:32",2005-02-13,"18:35","St. Michael's Hospital","M",45,1,1,0
+8713,2005-04-09,"12:28",2005-09-03,"04:33","St. Michael's Hospital","M",81,1,147,0
+8853,2005-08-04,"02:54",2005-12-18,"02:50","St. Michael's Hospital","M",74,0,136,0
+8901,2005-06-30,"18:22",2005-09-30,"06:35","St. Michael's Hospital","F",82,1,92,0
+9014,2005-02-01,"02:37",2005-02-11,"17:21","St. Michael's Hospital","F",NA,1,10,0
+9078,2005-04-06,"10:24",2005-08-23,"01:37","St. Joseph's Health Centre","F",59,1,139,0
+9131,2005-05-14,"15:43",2005-07-11,"11:08","St. Michael's Hospital","M",83,1,58,0
+9154,2004-09-05,"16:00",2005-03-05,"08:16","St. Michael's Hospital","F",69,1,181,0
+9302,2005-04-02,"12:07",2005-04-05,"01:56","St. Joseph's Health Centre","F",73,1,3,0
+9328,2005-05-11,"17:34",2005-08-05,"12:33","St. Michael's Hospital","M",57,1,86,0
+9575,2005-07-17,"13:01",2005-09-23,"03:03","St. Joseph's Health Centre","F",47,1,68,0
+9709,2005-02-24,"20:32",2005-04-24,"01:13","St. Joseph's Health Centre","M",63,0,59,0
+9903,2005-10-07,"02:12",2005-11-30,"18:44","St. Michael's Hospital","F",37,0,54,0
+1269,NA,"16:10",2005-01-15,"17:15","Sunnybrook Health Sciences Centre",NA,62,1,NA,0
+1422,NA,"18:33",2005-07-04,"10:38","Sunnybrook Health Sciences Centre","M",NA,1,NA,0
+1620,NA,"13:26",2005-01-11,"08:40","Mount Sinai Hospital","M",NA,0,NA,0
+1688,NA,"05:16",2005-04-20,"19:39","Toronto Western Hospital","F",72,1,NA,0
+2036,NA,"02:50",2005-04-24,"11:58","Sunnybrook Health Sciences Centre",NA,59,0,NA,0
+2187,NA,"03:39",2005-08-11,"07:57","Sunnybrook Health Sciences Centre","F",49,1,NA,0
+2321,NA,"12:06",2005-05-13,"08:39","Toronto Western Hospital","F",80,0,NA,0
+2491,NA,"07:02",2005-01-10,"16:18","Sunnybrook Health Sciences Centre","M",54,0,NA,0
+2559,NA,"16:30",2005-03-09,"10:27","Toronto Western Hospital",NA,63,0,NA,0
+2896,NA,"10:59",2005-06-10,"11:02","Mount Sinai Hospital",NA,64,1,NA,0
+2904,NA,"13:44",2005-12-22,"14:28","Toronto Western Hospital",NA,43,1,NA,0
+3281,NA,"01:01",2005-09-28,"19:26","Toronto Western Hospital","M",NA,0,NA,0
+3286,NA,"15:05",2005-01-14,"04:29","Toronto Western Hospital","M",39,0,NA,0
+3447,NA,"18:30",2005-11-14,"04:12","Toronto Western Hospital","F",68,1,NA,0
+3545,NA,"10:14",2005-06-18,"07:11","Sunnybrook Health Sciences Centre","F",50,1,NA,0
+3676,NA,"16:05",2005-05-09,"02:26","Toronto Western Hospital",NA,NA,0,NA,0
+3945,NA,"07:28",2005-05-17,"09:07","Mount Sinai Hospital","F",67,0,NA,0
+3958,NA,"07:24",2005-12-26,"08:14","Mount Sinai Hospital","F",37,1,NA,0
+3990,NA,"07:17",2005-01-23,"04:35","Toronto Western Hospital","M",38,0,NA,0
+4028,NA,"05:13",2005-09-23,"02:07","Toronto Western Hospital","F",67,1,NA,0
+4151,NA,"14:46",2005-11-04,"21:13","Mount Sinai Hospital","M",49,1,NA,0
+4265,NA,"11:58",2005-08-22,"22:21","Sunnybrook Health Sciences Centre","F",69,0,NA,0
+4344,NA,"01:38",2005-05-17,"05:22","Mount Sinai Hospital","M",41,0,NA,0
+4360,NA,"15:33",2005-07-11,"18:08","Sunnybrook Health Sciences Centre","M",66,0,NA,0
+4443,NA,"16:48",2005-06-25,"13:34","Mount Sinai Hospital","F",68,1,NA,0
+4447,NA,"13:50",2005-09-19,"08:43","Mount Sinai Hospital","F",52,0,NA,0
+4457,NA,"02:32",2005-06-25,"05:11","Mount Sinai Hospital","F",44,0,NA,0
+4535,NA,"14:11",2005-05-18,"06:18","Toronto Western Hospital","F",49,1,NA,0
+4551,NA,"03:05",2005-04-09,"02:39","Sunnybrook Health Sciences Centre","F",NA,0,NA,0
+4680,NA,"23:24",2005-04-29,"12:44","Sunnybrook Health Sciences Centre","M",NA,1,NA,0
+5177,NA,"04:49",2005-01-28,"20:23","Mount Sinai Hospital","F",54,0,NA,0
+5271,NA,"09:08",2005-12-22,"15:58","Sunnybrook Health Sciences Centre","F",NA,0,NA,0
+5329,NA,"15:27",2005-06-23,"13:47","Toronto Western Hospital","F",NA,1,NA,0
+5397,NA,"06:36",2005-07-13,"14:24","Mount Sinai Hospital",NA,NA,0,NA,0
+5469,NA,"20:57",2005-05-11,"22:05","Sunnybrook Health Sciences Centre","F",65,0,NA,0
+5604,NA,"20:01",2005-05-26,"03:51","Sunnybrook Health Sciences Centre","F",79,1,NA,0
+5657,NA,"16:33",2005-02-25,"08:31","Toronto Western Hospital","M",75,0,NA,0
+5773,NA,"18:26",2005-05-24,"18:35","Toronto Western Hospital","M",39,1,NA,0
+5829,NA,"01:20",2005-08-07,"22:50","Toronto Western Hospital","F",NA,1,NA,0
+5951,NA,"18:57",2005-06-09,"14:25","Sunnybrook Health Sciences Centre","M",77,1,NA,0
+6081,NA,"13:22",2005-09-03,"12:09","Sunnybrook Health Sciences Centre","M",NA,1,NA,0
+6236,NA,"15:10",2005-03-31,"02:06","Mount Sinai Hospital","F",40,0,NA,0
+6272,NA,"18:54",2005-06-02,"17:59","Sunnybrook Health Sciences Centre","M",83,0,NA,0
+6442,NA,"14:32",2005-12-17,"14:27","Sunnybrook Health Sciences Centre","M",NA,1,NA,0
+6467,NA,"20:00",2005-12-07,"23:06","Toronto Western Hospital","M",38,1,NA,0
+6561,NA,"21:36",2005-11-05,"10:12","Sunnybrook Health Sciences Centre","M",49,1,NA,0
+6900,NA,"14:41",2005-12-25,"09:53","Mount Sinai Hospital","M",37,0,NA,0
+6944,NA,"02:46",2005-02-04,"23:30","Toronto Western Hospital","M",46,0,NA,0
+7007,NA,"14:28",2005-03-23,"18:07","Toronto Western Hospital",NA,46,0,NA,0
+7153,NA,"15:58",2005-05-06,"11:06","Sunnybrook Health Sciences Centre","F",NA,1,NA,0
+7196,NA,"01:51",2005-08-19,"22:01","Mount Sinai Hospital","F",41,1,NA,0
+7322,NA,"08:37",2005-05-06,"05:58","Toronto Western Hospital","F",48,0,NA,0
+7406,NA,"15:19",2005-09-20,"22:06","Sunnybrook Health Sciences Centre","F",58,0,NA,0
+7569,NA,"08:34",2005-02-03,"11:30","Toronto Western Hospital","M",73,0,NA,0
+7584,NA,"10:53",2005-02-15,"23:45","Sunnybrook Health Sciences Centre","F",63,0,NA,0
+7628,NA,"09:22",2005-07-05,"23:49","Sunnybrook Health Sciences Centre","M",83,1,NA,0
+7643,NA,"18:17",2005-05-24,"10:57","Toronto Western Hospital","M",59,1,NA,0
+7691,NA,"15:53",2005-02-26,"20:33","Sunnybrook Health Sciences Centre","F",67,0,NA,0
+7951,NA,"22:15",2005-11-13,"14:00","Mount Sinai Hospital","F",41,0,NA,0
+8035,NA,"09:04",2005-11-13,"09:05","Mount Sinai Hospital","F",69,1,NA,0
+8040,NA,"05:19",2005-03-02,"23:09","Mount Sinai Hospital","M",72,1,NA,0
+8310,NA,"22:02",2005-06-22,"20:22","Mount Sinai Hospital","F",36,1,NA,0
+8499,NA,"02:51",2005-03-23,"10:01","Mount Sinai Hospital",NA,76,1,NA,0
+8501,NA,"02:53",2005-11-18,"14:25","Toronto Western Hospital","F",69,0,NA,0
+8797,NA,"04:54",2005-10-24,"07:55","Mount Sinai Hospital","F",NA,0,NA,0
+8876,NA,"01:27",2005-03-25,"19:14","Toronto Western Hospital","F",64,1,NA,0
+8905,NA,"12:03",2005-10-12,"05:27","Mount Sinai Hospital","F",74,0,NA,0
+8952,NA,"20:29",2005-03-11,"03:30","Sunnybrook Health Sciences Centre","M",35,1,NA,0
+8958,NA,"08:43",2005-03-20,"04:34","Sunnybrook Health Sciences Centre","M",NA,1,NA,0
+9130,NA,"13:23",2005-07-13,"08:51","Sunnybrook Health Sciences Centre","M",66,0,NA,0
+9189,NA,"06:52",2005-12-24,"07:08","Sunnybrook Health Sciences Centre","F",51,1,NA,0
+9198,NA,"09:49",2005-01-05,"06:19","Sunnybrook Health Sciences Centre",NA,NA,0,NA,0
+9245,NA,"18:31",2005-05-08,"21:30","Sunnybrook Health Sciences Centre","M",58,0,NA,0
+9287,NA,"04:03",2005-07-19,"01:56","Toronto Western Hospital","F",81,0,NA,0
+9366,NA,"07:24",2005-09-09,"17:37","Sunnybrook Health Sciences Centre",NA,59,0,NA,0
+9496,NA,"20:17",2005-03-06,"06:23","Toronto Western Hospital","F",77,1,NA,0
+9582,NA,"18:05",2005-07-20,"16:49","Toronto Western Hospital",NA,71,0,NA,0
+9716,NA,"11:39",2005-02-09,"07:32","Sunnybrook Health Sciences Centre","F",42,1,NA,0
+9800,NA,"12:19",2005-08-30,"20:57","Toronto Western Hospital","F",NA,0,NA,0
+9831,NA,"08:22",2005-08-08,"06:45","Mount Sinai Hospital","M",44,1,NA,0
